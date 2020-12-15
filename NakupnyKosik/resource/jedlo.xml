@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jedlo>
+    <ovocie cislo="1">
+        <nazov jednotkovaCena="10">jablka</nazov>
+        <vaha>2.5</vaha>
+    </ovocie>
+    <ovocie cislo="2">
+        <nazov jednotkovaCena="25">banány</nazov>
+        <vaha>2</vaha>
+    </ovocie>
+    <ovocie cislo="3">
+        <nazov jednotkovaCena="19">grapefruidy</nazov>
+        <vaha>0.75</vaha>
+    </ovocie>
+    <ovocie cislo="4">
+        <nazov jednotkovaCena="32">slivky sušené</nazov>
+        <vaha>1.8</vaha>
+    </ovocie>
+</jedlo>
